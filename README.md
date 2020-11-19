@@ -18,5 +18,5 @@ Sergey Melukov: [Telegram Channel](https://t.me/smelukov_dev)
 
 ### Conferences
 1. [Стас Курилов — Глубокое погружение в Webpack](https://www.youtube.com/watch?v=aiYkJOPD9v8&t=175s)
-2. [Максим Соснов - Собираем бандл мечты с помощью Webpack](https://www.youtube.com/watch?v=4ClK_0fxsVM)
+2. [Максим Соснов — Собираем бандл мечты с помощью Webpack](https://www.youtube.com/watch?v=4ClK_0fxsVM)
 3. [Алексей Иванов — Внутреннее устройство бандла Webpack](https://www.youtube.com/watch?v=jE1ibm037Fo)
